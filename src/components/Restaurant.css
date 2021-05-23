@@ -1,0 +1,27 @@
+.restaurant-tile {
+    display: flex;
+    margin: 20px;
+    height: 200px;
+    border: 0.5px solid rgb(236, 216, 197);
+}
+
+.rest-num {
+    margin: 10px;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #ffff;
+    text-align: center;
+}
+
+
+.rest-rating {
+    background-color: #dc7028;
+    width: 4rem;
+    height: 7rem;
+    margin: 10px;
+    margin-top: 0px;
+}
+
+.rest-details {
+    margin: 8px;
+}

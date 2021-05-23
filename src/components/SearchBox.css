@@ -1,0 +1,56 @@
+.SearchBox-bg{
+    background-image: url('./assets/food05.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.header {
+    margin-top: 30px;
+    font-size: 3rem;
+    padding: 16px 0;
+    color: white;
+    text-align: center;
+}
+
+.searchBar{
+    position: relative;
+}
+
+.search-icon{
+    position:absolute;
+    top: 25px;
+    font-size: 40px;
+    color: #555;
+    right: 18px;
+}
+
+.searchBar {
+    margin: 50px auto;
+    width: 100%;
+    max-width: 800px ;
+    
+}
+
+.searchBar input {
+    width: 100%;
+    padding: 16px;
+    font-size: 36px;
+    color: #444;
+    box-sizing: border-box;
+    outline: none;
+
+}
+
+.search-results {
+    background-color:white;
+    margin-top: 50px;
+}
+
+.search-results :hover {
+    background-color: #dc7028;
+    color: white;
+}
