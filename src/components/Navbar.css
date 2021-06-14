@@ -33,6 +33,7 @@
     color: white;
     text-decoration: none;
     padding: 0.5rem 1rem;
+    font-size: 1rem;
 }
 
 .nav-link:hover {
@@ -53,7 +54,7 @@
     .NavbarItems{
         position: relative;
     }
-    
+    /*
     .nav-menu {
         display: flex;
         flex-direction: column;
@@ -103,5 +104,6 @@
         color: white;
         font-size: 2rem;
     }
+    */
 
 }

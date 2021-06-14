@@ -1,12 +1,14 @@
+
 export const MenuItems = [
     {
-        title:'LOGIN',
+        title:'PROFILE',
         url:'#',
         cName: 'nav-link'
     },
     {
-        title:'SIGN UP',
+        title:'LOG OUT',
         url:'#',
         cName: 'nav-link'
     }
 ]
+
